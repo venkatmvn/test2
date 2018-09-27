@@ -1,0 +1,3 @@
+hostname
+cal
+date
